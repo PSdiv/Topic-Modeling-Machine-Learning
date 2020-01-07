@@ -1,2 +1,2 @@
-# Topic-Modeling-Machine-Learning
+# Topic-Modeling-NLP
 Information Storage and Retrieval Project
