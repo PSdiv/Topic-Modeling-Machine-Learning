@@ -14,5 +14,6 @@ pyLDAVis interactive chart visualization.
 
 ### KEYWORDS
 Topic Models, Visualization, Correlation
-
+## Please read the paper to know more
+https://github.com/PSdiv/Topic_Modeling-NLP/blob/master/Topic_Modeling_of_Research_Papers.pdf
 
